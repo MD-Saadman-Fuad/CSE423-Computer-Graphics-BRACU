@@ -1,4 +1,4 @@
-#Two Tasks are give in the same py file
+#Two Tasks are given in the same py file
 
 
 from OpenGL.GL import *
